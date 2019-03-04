@@ -1,7 +1,8 @@
 # unc0ver-jailbreak-for-iOS-12.0-12.1.2
 
 02/15/2019 - v3.0.0~b28 : 
-https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b39/Undecimus-v3.0.0-b28.ipa
+
+- https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b39/Undecimus-v3.0.0-b28.ipa
 
 02/22/2019 - v3.0.0~b29 :
 https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b39/Undecimus-v3.0.0-b29.ipa
