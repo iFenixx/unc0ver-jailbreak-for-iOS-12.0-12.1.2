@@ -26,3 +26,6 @@ https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b39/Undeci
 
 03/03/2019 - v3.0.0~b39 :
 https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b39/Undecimus-v3.0.0-b39.ipa
+
+03/05/2019 - v3.0.0~b40
+https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b40/Undecimus-v3.0.0-b40.ipa
