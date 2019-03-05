@@ -36,5 +36,8 @@
 - https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b39/Undecimus-v3.0.0-b39.ipa
 
 
-03/05/2019 - v3.0.0~b40 :
+03/04/2019 - v3.0.0~b40 :
 - https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b40/Undecimus-v3.0.0-b40.ipa
+
+03/04/2019 - v3.0.0~b41 :
+- https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b41/Undecimus-v3.0.0-b41.ipa
